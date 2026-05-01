@@ -56,7 +56,7 @@ Working Papers
 
 Conference Presentations
 ======
-1. 2025 National Academic Forum for Ph.D. Students in Quantitative Economics and awarded with \emph{Excellent Ph.D. dissertation}, December 2025, Xiamen. "Procrastination Meets Uncertainty: A Dynamic Information Design Approach"
+1. 2025 National Academic Forum for Ph.D. Students in Quantitative Economics and awarded with *Excellent Ph.D. dissertation*, December 2025, Xiamen. "Procrastination Meets Uncertainty: A Dynamic Information Design Approach"
 
 1. 8th Future Economists Forum with *Excellent Award*, December 2025, Beijing. "Procrastination Meets Uncertainty: A Dynamic Information Design Approach"
 

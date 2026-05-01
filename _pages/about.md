@@ -17,3 +17,4 @@ Research Interests
 
 Working Papers
 ======
+- [Event-based Information Acquisition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6510045)

@@ -22,30 +22,37 @@ Research Interests
 
 Working Papers
 ======
-- [Event-based Information Acquisition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6510045)
-  - *Excellent Ph.D. dissertation* of 2024 Academic Annual Meeting of the China Information Economics Society, October 2024.
-  - Presented at Micro-theory Workshop at School of Innovation and Development, Central University of Finance and Economics, October 2024.
-  - Presented at Econ Lunch at Guanghua School of Management, Peking University, October 2024.
-- [Procrastination Meets Uncertainty: A Dynamic Information Design Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6439407), (with *Wenhui Zhao*)
-  - *Excellent Ph.D. dissertation* of 2025 National Academic Forum for Ph.D. Students in Quantitative Economics, Xiamen University, December 2025.
-  - *Excellent Ph.D. dissertation* of 2025 Academic Annual Meeting of the China Information Economics Society, November 2025.
-  - Presented at the 8th Future Economists Forum and get *Excellent Award*.
-  - Presented at Micro-theory Workshop at School of Economics, Peking University, September 2025.
-  - Presented at Micro-theory Workshop at School of Innovation and Development, Central University of Finance and Economics, October 2025. 
-- [A Theory of Neutral Media: Costly Information and Audience Targeting](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6503211).
-  - Presented at Workshop at School of Economics, Dongbei University of Finance and Economics, April 2026.
-- Social Learning with Cognitive Hierarchy, (with *Yiqing Xing* and *Yi Zhang*)
-  - Presented at the Conference on Network Science and Economics, April 2026.
-  - Presented at the 9th CCER Summer Institute, June 2025.
-- Platform Shelter and Government Regulation, (with *Yao Li*, *Cenwen Wang* and *Danxia Xie*)
-  - Early version entitled "Platform Persuasion" presented at the 7th World Congress of the Game Theory Society (GAMES 2024), August 2024.
-  - Presented at Micro-theory Workshop at School of Innovation and Development, Central University of Finance and Economics, November 2024.
-- [Delegation under Crowded Opportunities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6634508).
-- Firm Size Dynamics: Consumer Search and Corporate Mergers, (with *Zhizhou Cheng*, *Yao Li* and *Danxia Xie*)
-  - Presented at 2025 World Congress of the Econometric Society (ESWC 2025), August 2025.
-  - Presented at the 35th CEC Seminar (Shanghai), November 2025.
-  - Presented at Econ Lunch at Guanghua School of Management, Peking University, June 2025.
-- Partial Credibility in Inspection Games, (with *Cenwen Wang*)
+1. [Event-based Information Acquisition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6510045)
+    - *Excellent Ph.D. dissertation* of 2024 Academic Annual Meeting of the China Information Economics Society, October 2024.
+    - Presented at Micro-theory Workshop at School of Innovation and Development, Central University of Finance and Economics, October 2024.
+    - Presented at Econ Lunch at Guanghua School of Management, Peking University, October 2024.
+
+1. [Procrastination Meets Uncertainty: A Dynamic Information Design Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6439407), (with *Wenhui Zhao*)
+    - *Excellent Ph.D. dissertation* of 2025 National Academic Forum for Ph.D. Students in Quantitative Economics, Xiamen University, December 2025.
+    - *Excellent Ph.D. dissertation* of 2025 Academic Annual Meeting of the China Information Economics Society, November 2025.
+    - Presented at the 8th Future Economists Forum and get *Excellent Award*.
+    - Presented at Micro-theory Workshop at School of Economics, Peking University, September 2025.
+    - Presented at Micro-theory Workshop at School of Innovation and Development, Central University of Finance and Economics, October 2025.
+
+1. [A Theory of Neutral Media: Costly Information and Audience Targeting](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6503211).
+    - Presented at Workshop at School of Economics, Dongbei University of Finance and Economics, April 2026.
+
+1. Social Learning with Cognitive Hierarchy, (with *Yiqing Xing* and *Yi Zhang*)
+    - Presented at the Conference on Network Science and Economics, April 2026.
+    - Presented at the 9th CCER Summer Institute, June 2025.
+
+1. Platform Shelter and Government Regulation, (with *Yao Li*, *Cenwen Wang* and *Danxia Xie*)
+    - Early version entitled "Platform Persuasion" presented at the 7th World Congress of the Game Theory Society (GAMES 2024), August 2024.
+    - Presented at Micro-theory Workshop at School of Innovation and Development, Central University of Finance and Economics, November 2024.
+
+1. [Delegation under Crowded Opportunities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6634508).
+
+1. Firm Size Dynamics: Consumer Search and Corporate Mergers, (with *Zhizhou Cheng*, *Yao Li* and *Danxia Xie*)
+    - Presented at 2025 World Congress of the Econometric Society (ESWC 2025), August 2025.
+    - Presented at the 35th CEC Seminar (Shanghai), November 2025.
+    - Presented at Econ Lunch at Guanghua School of Management, Peking University, June 2025.
+
+1. Partial Credibility in Inspection Games, (with *Cenwen Wang*)
 
 Conference Presentations
 ======

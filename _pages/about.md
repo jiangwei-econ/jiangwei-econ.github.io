@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am currently a Ph.D. candidate at the Guanghua School of Management, Peking University, Beijing. Email: jiangwei_ae@stu.pku.edu.cn
+I am currently a Ph.D. candidate at the Guanghua School of Management, Peking University, Beijing, China. Email: jiangwei_ae@stu.pku.edu.cn
 
 Education
 ======

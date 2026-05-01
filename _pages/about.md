@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+
+
 About Me
 ======
 I am currently a Ph.D. candidate at the Guanghua School of Management, Peking University, Beijing.
@@ -14,6 +16,7 @@ I am currently a Ph.D. candidate at the Guanghua School of Management, Peking Un
 Research Interests
 ======
 ● Information Economics
+
 ● Industrial Organization
 
 Working Paper

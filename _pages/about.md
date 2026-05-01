@@ -56,9 +56,14 @@ Working Papers
 
 Conference Presentations
 ======
-- 2025 National Academic Forum for Ph.D. Students in Quantitative Economics and awarded with \emph{Excellent Ph.D. dissertation}, December 2025, Xiamen. "Procrastination Meets Uncertainty: A Dynamic Information Design Approach"
-- 8th Future Economists Forum with *Excellent Award*, December 2025, Beijing. "Procrastination Meets Uncertainty: A Dynamic Information Design Approach"
-- 35th CEC Seminar (Shanghai), November 2025, Shanghai. "Firm Size Dynamics: Consumer Search and Corporate Mergers"
-- 2025 Academic Annual Meeting of the China Information Economics Society and awarded with *Excellent Ph.D. dissertation*, November 2025, Hainan. "Procrastination Meets Uncertainty: A Dynamic Information Design Approach"
-- 2025 World Congress of the Econometric Society, August 2025, Soel. "Firm Size Dynamics: Consumer Search and Corporate Mergers"
-- 2024 Academic Annual Meeting of the China Information Economics Society and awarded with *Excellent Ph.D. dissertation*, October 2024, Beijing. "Event-based Information Acquisition"
+1. 2025 National Academic Forum for Ph.D. Students in Quantitative Economics and awarded with \emph{Excellent Ph.D. dissertation}, December 2025, Xiamen. "Procrastination Meets Uncertainty: A Dynamic Information Design Approach"
+
+1. 8th Future Economists Forum with *Excellent Award*, December 2025, Beijing. "Procrastination Meets Uncertainty: A Dynamic Information Design Approach"
+
+1. 35th CEC Seminar (Shanghai), November 2025, Shanghai. "Firm Size Dynamics: Consumer Search and Corporate Mergers"
+
+1. 2025 Academic Annual Meeting of the China Information Economics Society and awarded with *Excellent Ph.D. dissertation*, November 2025, Hainan. "Procrastination Meets Uncertainty: A Dynamic Information Design Approach"
+
+1. 2025 World Congress of the Econometric Society, August 2025, Soel. "Firm Size Dynamics: Consumer Search and Corporate Mergers"
+
+1. 2024 Academic Annual Meeting of the China Information Economics Society and awarded with *Excellent Ph.D. dissertation*, October 2024, Beijing. "Event-based Information Acquisition"

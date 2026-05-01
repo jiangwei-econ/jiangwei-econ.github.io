@@ -24,13 +24,13 @@ repository               : "jiangwei-econ.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Wei Jiang"
+  pronouns         : # example: "he/his"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  location         : "Beijing, China"
+  employer         : "Peking University"
+  uri              : # https://jiangwei-econ.github.io
+  email            : "jiangwei_ae@pku.stu.edu.cn" 
 
   # Academic websites
   academia         : # URL

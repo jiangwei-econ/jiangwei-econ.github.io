@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Wei Jiang"
 author_profile: true
 redirect_from:
   - /about/

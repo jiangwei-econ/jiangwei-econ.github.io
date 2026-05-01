@@ -15,10 +15,8 @@ I am currently a Ph.D. candidate at the Guanghua School of Management, Peking Un
 
 Research Interests
 ======
-● Information Economics
+- Information Economics
+- Industrial Organization
 
-● Industrial Organization
-
-Working Paper
+Working Papers
 ======
-● 

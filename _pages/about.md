@@ -29,16 +29,16 @@ Working Papers
 - [Procrastination Meets Uncertainty: A Dynamic Information Design Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6439407), (with *Wenhui Zhao*)
   - *Excellent Ph.D. dissertation* of 2025 National Academic Forum for Ph.D. Students in Quantitative Economics, Xiamen University, December 2025.
   - *Excellent Ph.D. dissertation* of 2025 Academic Annual Meeting of the China Information Economics Society, November 2025.
-  - Presented at the $8^{\rm th}$ Future Economists Forum and get *Excellent Award*.
+  - Presented at the 8th Future Economists Forum and get *Excellent Award*.
   - Presented at Micro-theory Workshop at School of Economics, Peking University, September 2025.
   - Presented at Micro-theory Workshop at School of Innovation and Development, Central University of Finance and Economics, October 2025. 
 - [A Theory of Neutral Media: Costly Information and Audience Targeting](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6503211).
   - Presented at Workshop at School of Economics, Dongbei University of Finance and Economics, April 2026.
 - Social Learning with Cognitive Hierarchy, (with *Yiqing Xing* and *Yi Zhang*)
   - Presented at the Conference on Network Science and Economics, April 2026.
-  - Presented at the $9^{\rm th}$ CCER Summer Institute, June 2025.
+  - Presented at the 9th CCER Summer Institute, June 2025.
 - Platform Shelter and Government Regulation, (with *Yao Li*, *Cenwen Wang* and *Danxia Xie*)
-  - Early version entitled "Platform Persuasion" presented at the $7^{\rm th}$ World Congress of the Game Theory Society (GAMES 2024), August 2024.
+  - Early version entitled "Platform Persuasion" presented at the 7th World Congress of the Game Theory Society (GAMES 2024), August 2024.
   - Presented at Micro-theory Workshop at School of Innovation and Development, Central University of Finance and Economics, November 2024.
 - [Delegation under Crowded Opportunities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6634508).
 - Firm Size Dynamics: Consumer Search and Corporate Mergers, (with *Zhizhou Cheng*, *Yao Li* and *Danxia Xie*)
@@ -50,8 +50,8 @@ Working Papers
 Conference Presentations
 ======
 - 2025 National Academic Forum for Ph.D. Students in Quantitative Economics and awarded with \emph{Excellent Ph.D. dissertation}, December 2025, Xiamen. "Procrastination Meets Uncertainty: A Dynamic Information Design Approach"
-- $8^{\rm th}$ Future Economists Forum with \emph{Excellent Award}, December 2025, Beijing. "Procrastination Meets Uncertainty: A Dynamic Information Design Approach"
-- $35^{\rm th}$ CEC Seminar (Shanghai), November 2025, Shanghai. "Firm Size Dynamics: Consumer Search and Corporate Mergers"
+- 8th Future Economists Forum with \emph{Excellent Award}, December 2025, Beijing. "Procrastination Meets Uncertainty: A Dynamic Information Design Approach"
+- 35th CEC Seminar (Shanghai), November 2025, Shanghai. "Firm Size Dynamics: Consumer Search and Corporate Mergers"
 - 2025 Academic Annual Meeting of the China Information Economics Society and awarded with \emph{Excellent Ph.D. dissertation}, November 2025, Hainan. "Procrastination Meets Uncertainty: A Dynamic Information Design Approach"
 - 2025 World Congress of the Econometric Society, August 2025, Soel. "Firm Size Dynamics: Consumer Search and Corporate Mergers"
 - 2024 Academic Annual Meeting of the China Information Economics Society and awarded with \emph{Excellent Ph.D. dissertation}, October 2024, Beijing. "Event-based Information Acquisition"

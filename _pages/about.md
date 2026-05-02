@@ -82,5 +82,5 @@ Teaching
 1. *Teaching Assistant*, Game Theory (Undergraduate), PKU 
     - Semester: 2022 Spring, 2023 Spring, 2024 Spring. Instructor: Shuo Liu.
 
-1. *Teaching Assistant*, Organizational Economics (Undergraduate \& Graduate), PKU 
+1. *Teaching Assistant*, Organizational Economics (Undergraduate & Graduate), PKU 
     - Semester: 2024 Spring. Instructor: Shuo Liu.

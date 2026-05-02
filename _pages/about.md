@@ -67,7 +67,7 @@ Conference Presentations
 
 1. 2025 Academic Annual Meeting of the China Information Economics Society and awarded with *Excellent Ph.D. dissertation*, November 2025, Hainan. "Procrastination Meets Uncertainty: A Dynamic Information Design Approach"
 
-1. 2025 World Congress of the Econometric Society, August 2025, Soel. "Firm Size Dynamics: Consumer Search and Corporate Mergers"
+1. 2025 World Congress of the Econometric Society, August 2025, Seoul. "Firm Size Dynamics: Consumer Search and Corporate Mergers"
 
 1. 2024 Academic Annual Meeting of the China Information Economics Society and awarded with *Excellent Ph.D. dissertation*, October 2024, Beijing. "Event-based Information Acquisition"
 

@@ -36,7 +36,7 @@ Working Papers
     - Presented at Micro-theory Workshop at School of Economics, Peking University, September 2025.
     - Presented at Micro-theory Workshop at School of Innovation and Development, Central University of Finance and Economics, October 2025.
 
-1. [A Theory of Neutral Media: Costly Information and Audience Targeting](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6503211).
+1. [A Theory of Neutral Media: Costly Information and Audience Targeting](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6503211)
     - Presented at Workshop at School of Economics, Dongbei University of Finance and Economics, April 2026.
 
 1. Social Learning with Cognitive Hierarchy, (with *Yiqing Xing* and *Yi Zhang*)
@@ -47,7 +47,7 @@ Working Papers
     - Early version entitled "Platform Persuasion" presented at the 7th World Congress of the Game Theory Society (GAMES 2024), August 2024.
     - Presented at Micro-theory Workshop at School of Innovation and Development, Central University of Finance and Economics, November 2024.
 
-1. [Delegation under Crowded Opportunities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6634508).
+1. [Delegation under Crowded Opportunities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6634508)
 
 1. Firm Size Dynamics: Consumer Search and Corporate Mergers, (with *Zhizhou Cheng*, *Yao Li* and *Danxia Xie*)
     - Presented at 2025 World Congress of the Econometric Society (ESWC 2025), August 2025.

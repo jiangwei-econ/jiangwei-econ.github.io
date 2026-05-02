@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Wei Jiang"
+title: "Wei Jiang (姜渭)"
 author_profile: true
 redirect_from:
   - /about/
@@ -15,6 +15,7 @@ Email: jiangwei_ae@stu.pku.edu.cn
 Education
 ======
 - 2021.09-now, Guanghua School of Management, Peking University, Ph.D. candidate in Economics.
+    - Supervisors: *Xi Weng* and *Shuo Liu*
 - 2017.09-2021.07, School of Economics, Central University of Finance and Economics, B.S. in Economics.
 
 Research Interests
@@ -69,3 +70,17 @@ Conference Presentations
 1. 2025 World Congress of the Econometric Society, August 2025, Soel. "Firm Size Dynamics: Consumer Search and Corporate Mergers"
 
 1. 2024 Academic Annual Meeting of the China Information Economics Society and awarded with *Excellent Ph.D. dissertation*, October 2024, Beijing. "Event-based Information Acquisition"
+
+Teaching
+======
+1. *Teaching Assistant*, Advanced Microeconomics (Graduate), PKU 
+    - Semester: 2022 Fall, 2023 Fall. Instructor: Qi Wu.
+
+1. *Teaching Assistant*, Topics in Advanced Microeconomics (Graduate), PKU 
+    - Semester: 2023 Spring, 2024 Spring. Instructor: Xi Weng.
+
+1. *Teaching Assistant*, Game Theory (Undergraduate), PKU 
+    - Semester: 2022 Spring, 2023 Spring, 2024 Spring. Instructor: Shuo Liu.
+
+1. *Teaching Assistant*, Organizational Economics (Undergraduate \& Graduate), PKU 
+    - Semester: 2024 Spring. Instructor: Shuo Liu.

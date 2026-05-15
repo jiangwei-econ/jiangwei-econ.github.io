@@ -57,6 +57,8 @@ Working Papers
 
 1. Partial Credibility in Inspection Games, (with *Cenwen Wang*)
 
+1. Identity Conversion and Role Composition on Two-Sided Platforms, (with *Yao Li* and *Cenwen Wang*)
+
 Conference Presentations
 ======
 1. 2025 National Academic Forum for Ph.D. Students in Quantitative Economics and awarded with *Excellent Ph.D. dissertation*, December 2025, Xiamen. "Procrastination Meets Uncertainty: A Dynamic Information Design Approach"

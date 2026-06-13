@@ -15,7 +15,7 @@ Email: jiangwei_ae@stu.pku.edu.cn
 Education
 ======
 - 2021.09-now, Guanghua School of Management, Peking University, Ph.D. candidate in Economics.
-    - Supervisors: *Xi Weng* and *Shuo Liu*
+    - Supervisors: *[Xi Weng](https://wengxi125.weebly.com/)* and *Shuo Liu*
 - 2017.09-2021.07, School of Economics, Central University of Finance and Economics, B.S. in Economics.
 
 Research Interests

@@ -44,7 +44,7 @@ Working Papers
     - Presented at the Conference on Network Science and Economics, April 2026.
     - Presented at the 9th CCER Summer Institute, June 2025.
 
-1. Platform Shelter and Government Regulation, (with *Yao Li*, *Cenwen Wang* and *Danxia Xie*)
+1. Platform Shelter and Government Regulation: A Layered Enforcement Perspective, (with *Yao Li*, *Cenwen Wang* and *Danxia Xie*)
     - Early version entitled "Platform Persuasion" presented at the 7th World Congress of the Game Theory Society (GAMES 2024), August 2024.
     - Presented at Micro-theory Workshop at School of Innovation and Development, Central University of Finance and Economics, November 2024.
 

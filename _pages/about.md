@@ -48,8 +48,6 @@ Working Papers
     - Early version entitled "Platform Persuasion" presented at the 7th World Congress of the Game Theory Society (GAMES 2024), August 2024.
     - Presented at Micro-theory Workshop at School of Innovation and Development, Central University of Finance and Economics, November 2024.
 
-1. [Delegation under Crowded Opportunities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6634508)
-
 1. Firm Size Dynamics: Consumer Search and Corporate Mergers, (with *Zhizhou Cheng*, *Yao Li* and *Danxia Xie*)
     - Presented at 2025 World Congress of the Econometric Society (ESWC 2025), August 2025.
     - Presented at the 35th CEC Seminar (Shanghai), November 2025.
@@ -58,6 +56,8 @@ Working Papers
 1. Partial Credibility in Inspection Games, (with *Cenwen Wang*)
 
 1. Identity Conversion and Role Composition on Two-Sided Platforms, (with *Yao Li* and *Cenwen Wang*)
+
+1. Delegation under Crowded Opportunities, (with *Cenwen Wang*)
 
 Conference Presentations
 ======

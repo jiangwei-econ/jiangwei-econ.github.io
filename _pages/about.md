@@ -57,7 +57,6 @@ Working Papers
 
 1. Identity Conversion and Role Composition on Two-Sided Platforms, (with *Yao Li* and *Cenwen Wang*)
 
-1. Delegation under Crowded Opportunities, (with *Cenwen Wang*)
 
 Conference Presentations
 ======

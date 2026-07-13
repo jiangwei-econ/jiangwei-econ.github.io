@@ -55,8 +55,6 @@ Working Papers
 
 1. Partial Credibility in Inspection Games, (with *Cenwen Wang*)
 
-1. Identity Conversion and Role Composition on Two-Sided Platforms, (with *Yao Li* and *Cenwen Wang*)
-
 
 Conference Presentations
 ======

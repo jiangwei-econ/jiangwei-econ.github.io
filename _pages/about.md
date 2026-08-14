@@ -25,17 +25,17 @@ Research Interests
 
 Working Papers
 ======
-1. [Event-based Information Acquisition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6510045)
-    - *Excellent Ph.D. dissertation* of 2024 Academic Annual Meeting of the China Information Economics Society, October 2024.
-    - Presented at Micro-theory Workshop at School of Innovation and Development, Central University of Finance and Economics, October 2024.
-    - Presented at Econ Lunch at Guanghua School of Management, Peking University, October 2024.
-
-1. [Procrastination Meets Uncertainty: A Dynamic Information Design Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6439407), (with *Wenhui Zhao*)
+1. [Procrastination Meets Uncertainty: A Dynamic Information Design Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6439407), (with *Wenhui Zhao*) *R&R* at *Journal of Economic Theory*
     - *Excellent Ph.D. dissertation* of 2025 National Academic Forum for Ph.D. Students in Quantitative Economics, Xiamen University, December 2025.
     - *Excellent Ph.D. dissertation* of 2025 Academic Annual Meeting of the China Information Economics Society, November 2025.
     - Presented at the 8th Future Economists Forum and get *Excellent Award*.
     - Presented at Micro-theory Workshop at School of Economics, Peking University, September 2025.
     - Presented at Micro-theory Workshop at School of Innovation and Development, Central University of Finance and Economics, October 2025.
+
+1. [Event-based Information Acquisition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6510045)
+    - *Excellent Ph.D. dissertation* of 2024 Academic Annual Meeting of the China Information Economics Society, October 2024.
+    - Presented at Micro-theory Workshop at School of Innovation and Development, Central University of Finance and Economics, October 2024.
+    - Presented at Econ Lunch at Guanghua School of Management, Peking University, October 2024.
 
 1. [A Theory of Neutral Media: Costly Information and Audience Targeting](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6503211)
     - Presented at Workshop at School of Economics, Dongbei University of Finance and Economics, April 2026.

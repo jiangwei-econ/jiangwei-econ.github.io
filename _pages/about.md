@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 
-I am currently a Ph.D. candidate at Guanghua School of Management, Peking University, Beijing, China. 
+I am currently a research assistent professor at Glorious Sun School of Economics and Management, Donghua University, Shanghai, China. 
 
-Email: jiangweiecon@gmail.com
+Email: jiangwei_econ@dhu.edu.cn
 
 Education
 ======
